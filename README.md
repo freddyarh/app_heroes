@@ -1,2 +1,2 @@
-# app_heroes
-App heroes
+# App heroes
+App with React JS
